@@ -1,2 +1,2 @@
-simple program that retrieves info about the eindows registry. 
+simple program that retrieves info about the windows registry. 
 written in rust. 
